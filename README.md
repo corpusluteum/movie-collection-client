@@ -1,14 +1,14 @@
 ## First Step
 
-if not installed 'npm' and 'nodejs', you must run:
+If not installed 'npm' and 'nodejs', you must install 'npm' and 'nodejs'. if uses dpkg packaging system you can run:
 
-### sudo apt install nodejs npm
+### `sudo apt install nodejs npm`
 
 ## Second Step
 
 In the project directory, you must run: 
 
-### npm install
+### `npm install`
 
 ## Available Scripts
 
