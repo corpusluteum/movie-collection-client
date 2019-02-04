@@ -16,8 +16,9 @@ var Header = React.createClass({
                 </div>
 
                 <div className="menu">
-                    <Link to="/movies" className="menu-link-item" activeClassName="active">Filmler</Link>
-                    <Link to="/players" className="menu-link-item" activeClassName="active">Oyuncular</Link>
+                    <Link to="/" className="menu-link-item" activeClassName="active">Filmler</Link>
+                    <Link to="/movies" className="menu-link-item" activeClassName="active">Yönetim Film</Link>
+                    <Link to="/players" className="menu-link-item" activeClassName="active">Yönetim Oyuncu</Link>
                 </div>
             </div>
     );
